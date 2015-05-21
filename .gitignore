@@ -1,43 +1,28 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+# MAC OSX
+*.DS_Store
 
-# Folder config file
-Desktop.ini
+# Compiled Object files
+*.slo
+*.lo
+*.o
+ 
+# Compiled Dynamic libraries
+*.so
+ 
+# Compiled Static libraries
+*.lai
+*.la
+*.a
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+# Compiled Translations
+*/translations/*.qm
+ 
+/.settings/
+*/arm/
+*/x86/
+.metadata/*
+/.metadata/
+192.*
+169.254.0.1
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# Windows shortcuts
-*.lnk
-
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Thumbnails
-._*
-
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+-_site/*
