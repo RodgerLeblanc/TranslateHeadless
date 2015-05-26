@@ -26,7 +26,7 @@ TRANSLATIONS = \
 
 Your headless should populates ts files in the translations folder of your headless app, you just have to translate those with QtLinguist or any other tool you'd like.
 
-Be warn that changing the language many times in a row from the Settings app might slow down your device, that's why I've included a 'simulate' button to simulate a language change without changing the OS language, it just makes the app believes there was a language change.
+Be warned that changing the language many times in a row from the Settings app might slow down your device, that's why I've included a 'simulate' button to simulate a language change without changing the OS language, it just makes the app believes there was a language change.
 
 
 Contributors: Roger Leblanc
